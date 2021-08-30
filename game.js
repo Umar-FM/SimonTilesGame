@@ -69,10 +69,10 @@ function checkAnswer(){
         },200);
         $("h1").text("Game Over, Press Any Key to Restart");
 
-        var gamePattern=[];
-        var userClickedPattern=[];
-        var userIDX = 0;
-        var level =0;
+        gamePattern=[];
+        userClickedPattern=[];
+        userIDX = 0;
+        level =0;
 
     }
 }
